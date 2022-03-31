@@ -161,7 +161,7 @@ export const Nav = () => {
           </ListItem>
           <ListItem
             button
-            component={Link}
+            component="a"
             href="https://www.linkedin.com/in/leanne-gallagher/"
           >
             <ListItemIcon
@@ -180,7 +180,7 @@ export const Nav = () => {
               primary="LinkedIn"
             />
           </ListItem>
-          <ListItem button component={Link} href="https://github.com/lenny-g">
+          <ListItem button component="a" href="https://github.com/lenny-g">
             <ListItemIcon
               sx={{
                 color: "#C9E265",
@@ -199,7 +199,7 @@ export const Nav = () => {
           </ListItem>
           <ListItem
             button
-            component={Link}
+            component="a"
             href="https://www.canva.com/design/DAE3w_aJfJA/qmqNA_SubSdwsIb86hGFmg/view?utm_content=DAE3w_aJfJA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
           >
             <ListItemIcon

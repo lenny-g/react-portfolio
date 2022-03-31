@@ -23,7 +23,8 @@ export const Intro = () => {
           Developer with front and backend development experience. Earned a
           certificate in Full Stack Web Development from the University of
           Birmingham and a certificate in coding fundamentals from TechTalent
-          Academy
+          Academy. I have experience working with Javascript, Python, Ruby,
+          HTML/CSS and much more.
         </Typography>
       </Box>
     </Container>

@@ -8,7 +8,6 @@ export const AppRouter = () => {
       <Route exact path="/" element={<Home />} />
       <Route exact path="/portfolio" element={<Portfolio />} />
       <Route exact path="/contact" element={<Contact />} />
-      {/* <Route path="*" element={<Home />} /> */}
     </Routes>
   );
 };
