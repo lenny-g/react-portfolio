@@ -5,7 +5,7 @@ export const projectsFromApi = [
       "https://lenny-g.github.io/portfolio/assets/images/main-project-screenshot.png",
     title: "Semantic HTML Refactor",
     description:
-      " The objective of this project was to fix broken code, make the webpage more accessible and refactor HTML semantics",
+      " The objective of this project was to fix broken code, make the webpage more accessible and refactor HTML semantics.",
     link: "https://lenny-g.github.io/semantic-html-refactor/",
     github: "https://github.com/lenny-g/semantic-html-refactor",
   },
@@ -15,7 +15,7 @@ export const projectsFromApi = [
       "https://lenny-g.github.io/portfolio/assets/images/password-gen-screenshot.png",
     title: "Javascript Password Generator",
     description:
-      " The objective of this project was to create a password generator that generated a random string from user selected arrays",
+      " The objective of this project was to create a password generator that generated a random string from user selected arrays.",
     link: "https://lenny-g.github.io/javascript-password-generator/",
     github: "https://github.com/lenny-g/javascript-password-generator",
   },
@@ -74,7 +74,7 @@ export const projectsFromApi = [
     projectImg: "https://lenny-g.github.io/portfolio/assets/images/readme.png",
     title: "README Generator",
     description:
-      " The objective of this project was  to create a application that dynamically generates a professional readme file from a user's input using Inquirer and node.js",
+      " The objective of this project was  to create a application that dynamically generates a professional readme file from a user's input using Inquirer and node.js.",
     link: "https://drive.google.com/file/d/1TNhQg-EzGDvdfRm5Bx7WIJx-ViyxxAG7/view",
     github: "https://github.com/lenny-g/README-Generator",
   },
@@ -104,7 +104,7 @@ export const projectsFromApi = [
       "https://lenny-g.github.io/portfolio/assets/images/ecommerce.png",
     title: "E-commerce database",
     description:
-      " The object of the project was to build the back end for an e-commerce site by modifying starter code. To configure a working Express.js API to use Sequelize to interact with a MySQL database",
+      " The object of the project was to build the back end for an e-commerce site by modifying starter code. To configure a working Express.js API to use Sequelize to interact with a MySQL database.",
     link: "https://drive.google.com/file/d/1mTmzIyMdupw4zJ-U2ZBX7wWFiK6acWk8/view?usp=sharing",
     github: "https://github.com/lenny-g/object-relational-mapping",
   },
@@ -113,7 +113,7 @@ export const projectsFromApi = [
     projectImg: "https://lenny-g.github.io/portfolio/assets/images/crush.png",
     title: "Crush",
     description:
-      "  Crush is a dating app, where people can swipe left or right reflecting their interest, and view profiles to find out peoples intentions from the get-go. Its'intentions' feature makes it compulsory for user to state why they're using the app, from 'FlingTing' and 'Lets see where it goes', to 'Marry Me'",
+      "  Crush is a dating app, where people can swipe left or right reflecting their interest, and view profiles to find out peoples intentions from the get-go. Its'intentions' feature makes it compulsory for user to state why they're using the app, from 'FlingTing' and 'Lets see where it goes', to 'Marry Me'.",
     link: "https://crush-app-2022.herokuapp.com/",
     github: "https://github.com/lenny-g/dating-app",
   },
@@ -133,7 +133,7 @@ export const projectsFromApi = [
       "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26051155-fe611550186fbf2f759b63503a7d7e44.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T154727Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=0deaa556eaef9690ec39185da7944e0ae9b25567a33eb7e7753342d3fa92471c",
     title: "PWA Text Editor",
     description:
-      "The objective of this project was to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline",
+      "The objective of this project was to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.",
     link: "https://damp-mountain-03496.herokuapp.com/",
     github: "https://github.com/lenny-g/text-editor",
   },
@@ -143,7 +143,7 @@ export const projectsFromApi = [
       "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26050358-b94452f2948ddf1a5ede189304400aaa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T153327Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe3ad537c5f8e28a8343cc0c6ce10eb8e73a82757bcc28575256b1efb938fb1f",
     title: "Schoolify",
     description:
-      "Schoolify is an app created to close the gap between school and home. With Schoolify teachers are able to instantly message parents about students behaviour, give out awards and have all their students on one dashboard. Parents are able to update medical information, add children and absence requests which can be approved or declined in real time",
+      "Schoolify is an app created to close the gap between school and home. With Schoolify teachers are able to instantly message parents about students behaviour, give out awards and have all their students on one dashboard. Parents are able to update medical information, add children and absence requests which can be approved or declined in real time.",
     link: "https://crush-app-2022.herokuapp.com/",
     github: "https://github.com/lenny-g/schoolify-client",
   },
