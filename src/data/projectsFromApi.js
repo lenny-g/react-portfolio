@@ -130,6 +130,16 @@ export const projectsFromApi = [
   {
     id: "14",
     projectImg:
+      "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26052836-923b091e935659511a65102d039ecea7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T162133Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=cf77e615f6b3b7ef00f1f20f3aa9f506058ded262e829cffb6d44215a2e94fec",
+    title: "MERN Book Search Engine",
+    description:
+      "The objective of this project was to take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.",
+    link: "https://frozen-depths-23834.herokuapp.com/",
+    github: "https://github.com/lenny-g/mern-book-search-frontend",
+  },
+  {
+    id: "15",
+    projectImg:
       "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26051155-fe611550186fbf2f759b63503a7d7e44.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T154727Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=0deaa556eaef9690ec39185da7944e0ae9b25567a33eb7e7753342d3fa92471c",
     title: "PWA Text Editor",
     description:
@@ -138,7 +148,7 @@ export const projectsFromApi = [
     github: "https://github.com/lenny-g/text-editor",
   },
   {
-    id: "15",
+    id: "16",
     projectImg:
       "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26050358-b94452f2948ddf1a5ede189304400aaa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T153327Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe3ad537c5f8e28a8343cc0c6ce10eb8e73a82757bcc28575256b1efb938fb1f",
     title: "Schoolify",
