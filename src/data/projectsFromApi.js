@@ -117,25 +117,30 @@ export const projectsFromApi = [
     link: "https://crush-app-2022.herokuapp.com/",
     github: "https://github.com/lenny-g/dating-app",
   },
-   {
+  {
     id: "13",
-    projectImg: "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26050408-d09889970f174d1a92c5741ced5feb1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T153432Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=b577d8ae32c1e27afa90bb71fab4b0db486c6fd1642979e61dfe27f8cccb30c5",
+    projectImg:
+      "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26050408-d09889970f174d1a92c5741ced5feb1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T153432Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=b577d8ae32c1e27afa90bb71fab4b0db486c6fd1642979e61dfe27f8cccb30c5",
     title: "NoSQL Social Network",
-    description:"The objective of this project was to create an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Using Express.js for routing, MongoDB and Mongoose ODM.",    
+    description:
+      "The objective of this project was to create an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Using Express.js for routing, MongoDB and Mongoose ODM.",
     link: "https://drive.google.com/file/d/1mjHftB-E9ahuOAxLLxQp919_siNeNw78/view",
     github: "https://github.com/lenny-g/nosql-social-network",
   },
-   {
+  {
     id: "14",
-    projectImg: "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26050143-760d38a324d5047c68edda6dbd15e53a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T152941Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=7ff961e6bcf737d4b948f16e9408dab12f8178659f62f434be446cf985449b24",
+    projectImg:
+      "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26051155-fe611550186fbf2f759b63503a7d7e44.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T154727Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=0deaa556eaef9690ec39185da7944e0ae9b25567a33eb7e7753342d3fa92471c",
     title: "PWA Text Editor",
-    description: "The objective of this project was to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline",
+    description:
+      "The objective of this project was to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline",
     link: "https://damp-mountain-03496.herokuapp.com/",
     github: "https://github.com/lenny-g/text-editor",
   },
-   {
+  {
     id: "15",
-    projectImg: "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26050358-b94452f2948ddf1a5ede189304400aaa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T153327Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe3ad537c5f8e28a8343cc0c6ce10eb8e73a82757bcc28575256b1efb938fb1f",
+    projectImg:
+      "https://awesomescreenshot.s3.amazonaws.com/image/2487608/26050358-b94452f2948ddf1a5ede189304400aaa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20220421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220421T153327Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe3ad537c5f8e28a8343cc0c6ce10eb8e73a82757bcc28575256b1efb938fb1f",
     title: "Schoolify",
     description:
       "Schoolify is an app created to close the gap between school and home. With Schoolify teachers are able to instantly message parents about students behaviour, give out awards and have all their students on one dashboard. Parents are able to update medical information, add children and absence requests which can be approved or declined in real time",

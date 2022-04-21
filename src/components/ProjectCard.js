@@ -40,7 +40,7 @@ export const ProjectCard = ({
       >
         <CardMedia
           component="img"
-          height="200px"
+          height="contain"
           image={projectImg}
           alt={title}
         />
