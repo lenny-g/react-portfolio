@@ -25,7 +25,7 @@ export const projectsFromApi = [
       "https://lenny-g.github.io/portfolio/assets/images/quiz-screenshot.png",
     title: "Javascript Quiz",
     description:
-      "  Objective was to create a timed, multiple answer quiz using Javascript.",
+      "  The Objective of this project was to create a timed, multiple answer quiz using Javascript.",
     link: "https://lenny-g.github.io/quiz-app-javascript/",
     github: "https://github.com/lenny-g/javascript-quiz",
   },
@@ -55,7 +55,7 @@ export const projectsFromApi = [
       "https://lenny-g.github.io/portfolio/assets/images/foodtopia-screenshot.png",
     title: "Foodtopia",
     description:
-      "  The objective of this project was to build web application from scratch. With a team, to conceive and execute a design that solves a real-world problem by integrating data received from multiple server-side API requests.",
+      "Foodtopia is an app built to solve the real life problem of finding recipes that cater to food intolerance's and specialised diets. This application uses Spoonacular's API to render recipes using various filters and also Youtube's API to render instructional videos for said recipes. This application also includes a function that allows the user to calculate the ingredient amounts needed to prepare food in large quantities. ",
     link: "https://lenny-g.github.io/foodtopia/",
     github: "https://github.com/lenny-g/foodtopia",
   },
@@ -104,7 +104,7 @@ export const projectsFromApi = [
       "https://lenny-g.github.io/portfolio/assets/images/ecommerce.png",
     title: "E-commerce database",
     description:
-      " The object of the project was to build the back end for an e-commerce site by modifying starter code. To configure a working Express.js API to use Sequelize to interact with a MySQL database.",
+      " The object of this project was to build the back end for an e-commerce site by modifying starter code. To configure a working Express.js API to use Sequelize to interact with a MySQL database.",
     link: "https://drive.google.com/file/d/1mTmzIyMdupw4zJ-U2ZBX7wWFiK6acWk8/view?usp=sharing",
     github: "https://github.com/lenny-g/object-relational-mapping",
   },
@@ -113,7 +113,7 @@ export const projectsFromApi = [
     projectImg: "https://lenny-g.github.io/portfolio/assets/images/crush.png",
     title: "Crush",
     description:
-      "  Crush is a dating app, where people can swipe left or right reflecting their interest, and view profiles to find out peoples intentions from the get-go. Its'intentions' feature makes it compulsory for user to state why they're using the app, from 'FlingTing' and 'Lets see where it goes', to 'Marry Me'.",
+      "  Crush is a dating app, where a user can click left or right reflecting their interest, and view profiles to find out peoples intentions from the get-go. Its'intentions' feature makes it compulsory for user to state why they're using the app, from 'FlingTing' and 'Lets see where it goes', to 'Marry Me'.",
     link: "https://crush-app-2022.herokuapp.com/",
     github: "https://github.com/lenny-g/dating-app",
   },
