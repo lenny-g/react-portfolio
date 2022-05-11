@@ -150,7 +150,7 @@ export const projectsFromApi = [
     title: "Schoolify",
     description:
       "Schoolify is an app created to close the gap between school and home. With Schoolify teachers are able to instantly message parents about students behaviour, give out awards and have all their students on one dashboard. Parents are able to update medical information, add children and absence requests which can be approved or declined in real time.",
-    link: "https://crush-app-2022.herokuapp.com/",
+    link: "https://schoolify2022.herokuapp.com/",
     github: "https://github.com/lenny-g/schoolify-client",
   },
 ];
